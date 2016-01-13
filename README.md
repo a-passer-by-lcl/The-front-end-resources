@@ -1,28 +1,11 @@
 #前端参考资料以及学习资料整理与总结
 
 ###HTML
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ###CSS
 * [通用 CSS 笔记、建议与指导](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
-###CSS框架以及预处理器
+###CSS框架
 
 * [Bootstrap2 中文文档](http://v2.bootcss.com/)
 * [Bootstrap3 中文文档](http://v3.bootcss.com/)
@@ -31,8 +14,8 @@
 * [Ionic 中文教程](http://www.haomou.net/2014/10/06/2014_ionic_learn/)
 * [Ionic 中文文档](http://www.ionic.wang/)
 * [Frozen UI](http://frozenui.github.io/)
-* []()
-* []()
+
+###CSS预处理器
 
 * [Less 中文文档](http://www.bootcss.com/p/lesscss/)
 * [Sass 中文文档](http://sass.bootcss.com/)
@@ -45,57 +28,29 @@
 
 ###Javascript
 * [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript#内存泄露)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ###JS类库
 * jQuery
-* [jQuery API 中文文档](http://www.jquery123.com/)
-* [jQuery 插件库](http://www.jq22.com/)
-* [jQuery EasyUI 1.3 中文文档](http://www.zi-han.net/case/easyui/index.html)
-* []()
-* []()
-* []()
-* []()
+	* [jQuery API 中文文档](http://www.jquery123.com/)
+	* [jQuery 插件库](http://www.jq22.com/)
+	* [jQuery EasyUI 1.3 中文文档](http://www.zi-han.net/case/easyui/index.html)
 
-*Zepto
-* [ZeptoJS 中文文档](http://www.css88.com/doc/zeptojs-1.1.2_api/)
+* Zepto
+	* [ZeptoJS 中文文档](http://www.css88.com/doc/zeptojs-1.1.2_api/)
 
-*Vue
-* [Vue 中文文档](http://cn.vuejs.org/guide/reactivity.html)
+* Vue
+	* [Vue 中文文档](http://cn.vuejs.org/guide/reactivity.html)
 
 * Angular
-* [AngularJS 中文网](http://www.apjs.net/)
-* [AngularJS API Docs 英文](http://docs.angularjs.cn/api)
-* [AngularJS 中文社区](http://www.angularjs.cn/)
-* [AngularJS 中文社区](http://www.ngnice.com/)
-* [AngularJS 入门](http://www.cnblogs.com/lvdabao/tag/AngularJs/)
-* [AngularJS 入门](https://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/content/index.html)
-* [AngularJS 入门](http://www.hubwiz.com/course/547c3e3b88dba0087c55b4e5/)
-* []()
-* []()
-* []()
-* []()
-* []()
+	* [AngularJS 中文网](http://www.apjs.net/)
+	* [AngularJS API Docs 英文](http://docs.angularjs.cn/api)
+	* [AngularJS 中文社区](http://www.angularjs.cn/)
+	* [AngularJS 中文社区](http://www.ngnice.com/)
+	* [AngularJS 入门](http://www.cnblogs.com/lvdabao/tag/AngularJs/)
+	* [AngularJS 入门](https://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/content/index.html)
+	* [AngularJS 入门](http://www.hubwiz.com/course/547c3e3b88dba0087c55b4e5/)
 
 * React
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 ###Webpack
 * [Webpack 中文指南](https://zhaoda.gitbooks.io/webpack/content/)
@@ -104,8 +59,6 @@
 * [Webpack 使用优化](https://github.com/lcxfs1991/blog/issues/2?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Webpack傻瓜式指南](http://zhuanlan.zhihu.com/FrontendMagazine/20367175)
 * [Webpack 常用功能介绍](http://segmentfault.com/a/1190000004172052)
-* []()
-* []()
 
 ###Gulp以及Grunt
 * [Gulp 中文文档](http://www.gulpjs.com.cn/)
@@ -116,21 +69,3 @@
 * [Gulp 范儿](http://www.imooc.com/article/1424)
 * [Grunt 中文文档](http://www.gruntjs.net/getting-started)
 
-###
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
-###
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
