@@ -30,27 +30,18 @@
 * [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript#内存泄露)
 
 ###JS类库
-* jQuery
-	* [jQuery API 中文文档](http://www.jquery123.com/)
-	* [jQuery 插件库](http://www.jq22.com/)
-	* [jQuery EasyUI 1.3 中文文档](http://www.zi-han.net/case/easyui/index.html)
-
-* Zepto
-	* [ZeptoJS 中文文档](http://www.css88.com/doc/zeptojs-1.1.2_api/)
-
-* Vue
-	* [Vue 中文文档](http://cn.vuejs.org/guide/reactivity.html)
-
-* Angular
-	* [AngularJS 中文网](http://www.apjs.net/)
-	* [AngularJS API Docs 英文](http://docs.angularjs.cn/api)
-	* [AngularJS 中文社区](http://www.angularjs.cn/)
-	* [AngularJS 中文社区](http://www.ngnice.com/)
-	* [AngularJS 入门](http://www.cnblogs.com/lvdabao/tag/AngularJs/)
-	* [AngularJS 入门](https://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/content/index.html)
-	* [AngularJS 入门](http://www.hubwiz.com/course/547c3e3b88dba0087c55b4e5/)
-
-* React
+* [jQuery API 中文文档](http://www.jquery123.com/)
+* [jQuery 插件库](http://www.jq22.com/)
+* [jQuery EasyUI 1.3 中文文档](http://www.zi-han.net/case/easyui/index.html)
+* [ZeptoJS 中文文档](http://www.css88.com/doc/zeptojs-1.1.2_api/)
+* [Vue 中文文档](http://cn.vuejs.org/guide/reactivity.html)
+* [AngularJS 中文网](http://www.apjs.net/)
+* [AngularJS API Docs 英文](http://docs.angularjs.cn/api)
+* [AngularJS 中文社区](http://www.angularjs.cn/)
+* [AngularJS 中文社区](http://www.ngnice.com/)
+* [AngularJS 入门](http://www.cnblogs.com/lvdabao/tag/AngularJs/)
+* [AngularJS 入门](https://xdsnet.gitbooks.io/angular-phonecat-book-zhcn/content/index.html)
+* [AngularJS 入门](http://www.hubwiz.com/course/547c3e3b88dba0087c55b4e5/)
 
 ###Webpack
 * [Webpack 中文指南](https://zhaoda.gitbooks.io/webpack/content/)
