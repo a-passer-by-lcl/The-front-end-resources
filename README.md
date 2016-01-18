@@ -34,7 +34,7 @@
 * [jQuery 插件库](http://www.jq22.com/)
 * [jQuery EasyUI 1.3 中文文档](http://www.zi-han.net/case/easyui/index.html)
 * [ZeptoJS 中文文档](http://www.css88.com/doc/zeptojs-1.1.2_api/)
-* [Vue 中文文档](http://cn.vuejs.org/guide/reactivity.html)
+* [Vue 中文文档](http://cn.vuejs.org/)
 * [AngularJS 中文网](http://www.apjs.net/)
 * [AngularJS API Docs 英文](http://docs.angularjs.cn/api)
 * [AngularJS 中文社区](http://www.angularjs.cn/)
